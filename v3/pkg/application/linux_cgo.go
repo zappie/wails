@@ -8,8 +8,8 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/wailsapp/wails/v3/internal/assetserver/webview"
-	"github.com/wailsapp/wails/v3/pkg/events"
+	"github.com/zappie/wails/v3/internal/assetserver/webview"
+	"github.com/zappie/wails/v3/pkg/events"
 )
 
 /*

@@ -7,7 +7,7 @@ import (
 	"sort"
 	"unsafe"
 
-	"github.com/wailsapp/wails/v3/pkg/w32"
+	"github.com/zappie/wails/v3/pkg/w32"
 )
 
 var (

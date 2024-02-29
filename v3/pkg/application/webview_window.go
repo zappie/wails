@@ -11,7 +11,7 @@ import (
 	"github.com/leaanthony/u"
 
 	"github.com/samber/lo"
-	"github.com/wailsapp/wails/v3/pkg/events"
+	"github.com/zappie/wails/v3/pkg/events"
 )
 
 // Enabled means the feature should be enabled

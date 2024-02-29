@@ -7,7 +7,7 @@ import (
 	"runtime/debug"
 
 	"github.com/leaanthony/clir"
-	"github.com/wailsapp/wails/v3/internal/commands"
+	"github.com/zappie/wails/v3/internal/commands"
 )
 
 func init() {

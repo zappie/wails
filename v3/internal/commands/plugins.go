@@ -1,8 +1,8 @@
 package commands
 
 import (
-	"github.com/wailsapp/wails/v3/internal/flags"
-	"github.com/wailsapp/wails/v3/internal/plugins"
+	"github.com/zappie/wails/v3/internal/flags"
+	"github.com/zappie/wails/v3/internal/plugins"
 	"strings"
 
 	"github.com/pterm/pterm"

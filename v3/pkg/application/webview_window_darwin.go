@@ -745,12 +745,12 @@ void windowFocus(void *window) {
 */
 import "C"
 import (
-	"github.com/wailsapp/wails/v3/internal/assetserver"
-	"github.com/wailsapp/wails/v3/internal/runtime"
+	"github.com/zappie/wails/v3/internal/assetserver"
+	"github.com/zappie/wails/v3/internal/runtime"
 	"sync"
 	"unsafe"
 
-	"github.com/wailsapp/wails/v3/pkg/events"
+	"github.com/zappie/wails/v3/pkg/events"
 )
 
 var showDevTools = func(window unsafe.Pointer) {}

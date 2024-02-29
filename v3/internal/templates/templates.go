@@ -14,9 +14,9 @@ import (
 	"github.com/go-git/go-git/v5/plumbing"
 	"github.com/pkg/errors"
 	"github.com/pterm/pterm"
-	"github.com/wailsapp/wails/v3/internal/debug"
+	"github.com/zappie/wails/v3/internal/debug"
 
-	"github.com/wailsapp/wails/v3/internal/flags"
+	"github.com/zappie/wails/v3/internal/flags"
 
 	"github.com/leaanthony/gosod"
 

@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 	"github.com/pterm/pterm"
-	"github.com/wailsapp/wails/v3/internal/flags"
-	"github.com/wailsapp/wails/v3/internal/parser"
+	"github.com/zappie/wails/v3/internal/flags"
+	"github.com/zappie/wails/v3/internal/parser"
 	"path/filepath"
 )
 

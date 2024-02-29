@@ -1,8 +1,8 @@
-module github.com/wailsapp/wails/v3
+module github.com/zappie/wails/v3
 
-go 1.21.1
+go 1.21.0
 
-toolchain go1.21.4
+toolchain go1.21.0
 
 require (
 	github.com/atterpac/refresh v0.5.11

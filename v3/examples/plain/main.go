@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/wailsapp/wails/v3/pkg/application"
+	"github.com/zappie/wails/v3/pkg/application"
 )
 
 func main() {

@@ -11,11 +11,11 @@ import (
 	"unsafe"
 
 	"github.com/wailsapp/go-webview2/webviewloader"
-	"github.com/wailsapp/wails/v3/internal/operatingsystem"
+	"github.com/zappie/wails/v3/internal/operatingsystem"
 	"golang.org/x/sys/windows"
 
-	"github.com/wailsapp/wails/v3/pkg/events"
-	"github.com/wailsapp/wails/v3/pkg/w32"
+	"github.com/zappie/wails/v3/pkg/events"
+	"github.com/zappie/wails/v3/pkg/w32"
 
 	"github.com/samber/lo"
 )

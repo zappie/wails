@@ -1,6 +1,6 @@
 package application
 
-import "github.com/wailsapp/wails/v3/pkg/events"
+import "github.com/zappie/wails/v3/pkg/events"
 import "github.com/leaanthony/u"
 
 // MacBackdrop is the backdrop type for macOS

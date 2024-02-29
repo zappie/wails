@@ -12,8 +12,8 @@ import (
 	"github.com/jaypipes/ghw"
 	"github.com/pterm/pterm"
 	"github.com/samber/lo"
-	"github.com/wailsapp/wails/v3/internal/operatingsystem"
-	"github.com/wailsapp/wails/v3/internal/version"
+	"github.com/zappie/wails/v3/internal/operatingsystem"
+	"github.com/zappie/wails/v3/internal/version"
 )
 
 func Run() (err error) {
@@ -62,7 +62,7 @@ func Run() (err error) {
 
 	/** Wails **/
 	wailsPackage, _ := lo.Find(BuildInfo.Deps, func(dep *debug.Module) bool {
-		return dep.Path == "github.com/wailsapp/wails/v3"
+		return dep.Path == "github.com/zappie/wails/v3"
 	})
 
 	wailsVersion := version.VersionString

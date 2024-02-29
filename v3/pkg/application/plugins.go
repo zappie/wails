@@ -1,7 +1,7 @@
 package application
 
 import (
-	"github.com/wailsapp/wails/v3/internal/assetserver"
+	"github.com/zappie/wails/v3/internal/assetserver"
 )
 
 type Plugin interface {

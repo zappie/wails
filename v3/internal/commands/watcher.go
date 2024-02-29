@@ -2,7 +2,7 @@ package commands
 
 import (
 	"github.com/atterpac/refresh/engine"
-	"github.com/wailsapp/wails/v3/internal/signal"
+	"github.com/zappie/wails/v3/internal/signal"
 	"os"
 )
 

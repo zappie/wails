@@ -1,7 +1,7 @@
 # application
 
 ```go
-import "github.com/wailsapp/wails/v3/pkg/application"
+import "github.com/zappie/wails/v3/pkg/application"
 ```
 
 ## Index

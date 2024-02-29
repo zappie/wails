@@ -4,7 +4,7 @@ import (
 	_ "embed"
 	"fmt"
 	"github.com/pterm/pterm"
-	"github.com/wailsapp/wails/v3/internal/s"
+	"github.com/zappie/wails/v3/internal/s"
 	"os"
 	"path/filepath"
 	"sync"

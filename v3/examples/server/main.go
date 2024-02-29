@@ -5,9 +5,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/wailsapp/wails/v3/pkg/application"
-	"github.com/wailsapp/wails/v3/plugins/experimental/server"
-	"github.com/wailsapp/wails/v3/plugins/log"
+	"github.com/zappie/wails/v3/pkg/application"
+	"github.com/zappie/wails/v3/plugins/experimental/server"
+	"github.com/zappie/wails/v3/plugins/log"
 )
 
 //go:embed assets/*

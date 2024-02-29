@@ -5,7 +5,7 @@ import (
 	"log/slog"
 	"net/http"
 
-	"github.com/wailsapp/wails/v3/internal/assetserver"
+	"github.com/zappie/wails/v3/internal/assetserver"
 )
 
 type Options struct {

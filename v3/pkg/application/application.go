@@ -14,13 +14,13 @@ import (
 
 	"github.com/pkg/browser"
 	"github.com/samber/lo"
-	"github.com/wailsapp/wails/v3/internal/signal"
+	"github.com/zappie/wails/v3/internal/signal"
 
-	"github.com/wailsapp/wails/v3/internal/assetserver"
-	"github.com/wailsapp/wails/v3/internal/assetserver/webview"
-	"github.com/wailsapp/wails/v3/internal/capabilities"
-	"github.com/wailsapp/wails/v3/pkg/events"
-	"github.com/wailsapp/wails/v3/pkg/icons"
+	"github.com/zappie/wails/v3/internal/assetserver"
+	"github.com/zappie/wails/v3/internal/assetserver/webview"
+	"github.com/zappie/wails/v3/internal/capabilities"
+	"github.com/zappie/wails/v3/pkg/events"
+	"github.com/zappie/wails/v3/pkg/icons"
 )
 
 //go:embed assets/*

@@ -3,8 +3,8 @@
 package doctor
 
 import (
-	"github.com/wailsapp/wails/v3/internal/doctor/packagemanager"
-	"github.com/wailsapp/wails/v3/internal/operatingsystem"
+	"github.com/zappie/wails/v3/internal/doctor/packagemanager"
+	"github.com/zappie/wails/v3/internal/operatingsystem"
 )
 
 func getInfo() (map[string]string, bool) {

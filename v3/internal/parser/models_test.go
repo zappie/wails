@@ -2,7 +2,7 @@ package parser
 
 import (
 	"github.com/google/go-cmp/cmp"
-	"github.com/wailsapp/wails/v3/internal/flags"
+	"github.com/zappie/wails/v3/internal/flags"
 	"os"
 	"path/filepath"
 	"strings"

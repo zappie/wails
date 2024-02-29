@@ -8,8 +8,8 @@ import (
 
 	"github.com/markbates/goth"
 	"github.com/markbates/goth/providers/github"
-	"github.com/wailsapp/wails/v3/pkg/application"
-	"github.com/wailsapp/wails/v3/plugins/oauth"
+	"github.com/zappie/wails/v3/pkg/application"
+	"github.com/zappie/wails/v3/plugins/oauth"
 )
 
 //go:embed assets
@@ -38,7 +38,7 @@ func main() {
 			Handler: application.AssetFileServerFS(assets),
 		},
 		Plugins: map[string]application.Plugin{
-			"github.com/wailsapp/wails/v3/plugins/oauth": oAuthPlugin,
+			"github.com/zappie/wails/v3/plugins/oauth": oAuthPlugin,
 		},
 	})
 

@@ -11,8 +11,8 @@ Add the plugin to the `Plugins` option in the Applications options:
 package main
 
 import (
-    "github.com/wailsapp/wails/v3/pkg/application"
-    "github.com/wailsapp/wails/v3/plugins/server"
+    "github.com/zappie/wails/v3/pkg/application"
+    "github.com/zappie/wails/v3/plugins/server"
 )
 
 func main() {

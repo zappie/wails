@@ -71,8 +71,8 @@ Add the plugin to the `Plugins` option in the Applications options. This example
 package main
 
 import (
-    "github.com/wailsapp/wails/v3/pkg/application"
-    "github.com/wailsapp/wails/v3/plugins/browser"
+    "github.com/zappie/wails/v3/pkg/application"
+    "github.com/zappie/wails/v3/plugins/browser"
 )
 
 func main() {
