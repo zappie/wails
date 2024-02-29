@@ -971,7 +971,7 @@ func (w *windowsWebviewWindow) WndProc(msg uint32, wparam, lparam uintptr) uintp
 			// If the window is frameless, and we are minimizing, then we need to suppress the Resize on the
 			// WebView2. If we don't do this, restoring does not work as expected and first restores with some wrong
 			// size during the restore animation and only fully renders when the animation is done. This highly
-			// depends on the content in the WebView, see https://github.com/wailsapp/wails/issues/1319
+			// depends on the content in the WebView, see https://github.com/wailsapp/zappie/issues/1319
 		} else if w.resizeDebouncer != nil {
 			w.resizeDebouncer(func() {
 				InvokeSync(func() {

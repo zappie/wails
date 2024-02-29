@@ -68,7 +68,7 @@ func (p *Project) GenerateModels(models map[packagePath]map[structName]*StructDe
 	}
 	var result = make(map[packagePath]string)
 
-	// sort pkgs by alias (e.g. services) instead of full pkg name (e.g. github.com/wailsapp/wails/somedir/services)
+	// sort pkgs by alias (e.g. services) instead of full pkg name (e.g. github.com/wailsapp/zappie/somedir/services)
 	// and then sort resulting list by the alias
 	var keys []string
 	for pkg := range models {

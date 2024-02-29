@@ -12,7 +12,7 @@
       - 请在您的帖子中包括`wails doctor`的输出结果。
       - 如果错误是与当前文档不一致的行为，例如窗口无法正确调整大小，请执行以下操作：
         - 在`v3/example`目录中更新一个现有示例或在`v3/examples`文件夹中创建一个清楚显示问题的新示例。
-        - 使用标题为“[v3 alpha test] <错误描述>”的[PR](https://github.com/wailsapp/wails/pulls)打开一个请求。
+        - 使用标题为“[v3 alpha test] <错误描述>”的[PR](https://github.com/wailsapp/zappie/pulls)打开一个请求。
         - 请在您的帖子中包括指向PR的链接。
 
 !!! warning
@@ -23,7 +23,7 @@
 
     如果您有一个错误的修复或文档的更新，请执行以下操作：
 
-    - 在[Wails存储库](https://github.com/wailsapp/wails)上创建一个拉取请求。PR的标题应以`[v3 alpha]`开头。
+    - 在[Wails存储库](https://github.com/wailsapp/zappie)上创建一个拉取请求。PR的标题应以`[v3 alpha]`开头。
     - 在[v3 Alpha Feedback](https://discord.gg/3mgVyGua)频道中发布帖子。
     - 帖子应标记为`PR`。
     - 请在帖子中包含PR的链接。

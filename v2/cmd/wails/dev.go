@@ -4,10 +4,10 @@ import (
 	"os"
 
 	"github.com/pterm/pterm"
-	"github.com/wailsapp/wails/v2/cmd/wails/flags"
-	"github.com/wailsapp/wails/v2/cmd/wails/internal/dev"
-	"github.com/wailsapp/wails/v2/internal/colour"
-	"github.com/wailsapp/wails/v2/pkg/clilogger"
+	"github.com/wailsapp/zappie/v2/cmd/wails/flags"
+	"github.com/wailsapp/zappie/v2/cmd/wails/internal/dev"
+	"github.com/wailsapp/zappie/v2/internal/colour"
+	"github.com/wailsapp/zappie/v2/pkg/clilogger"
 )
 
 func devApplication(f *flags.Dev) error {

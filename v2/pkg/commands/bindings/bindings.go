@@ -8,9 +8,9 @@ import (
 	"runtime"
 
 	"github.com/samber/lo"
-	"github.com/wailsapp/wails/v2/internal/colour"
-	"github.com/wailsapp/wails/v2/internal/shell"
-	"github.com/wailsapp/wails/v2/pkg/commands/buildtags"
+	"github.com/wailsapp/zappie/v2/internal/colour"
+	"github.com/wailsapp/zappie/v2/internal/shell"
+	"github.com/wailsapp/zappie/v2/pkg/commands/buildtags"
 )
 
 // Options for generating bindings

@@ -1,5 +1,5 @@
 site_name: "alpha"
-repo_url: https://github.com/wailsapp/wails
+repo_url: https://github.com/wailsapp/zappie
 edit_uri: edit/v3-alpha/mkdocs-website/docs/
 site_url: https://v3alpha.wails.io
 site_description: The Wails Project - Build beautiful cross-platform applications using Go
@@ -118,7 +118,7 @@ extra:
       
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/wailsapp/wails
+      link: https://github.com/wailsapp/zappie
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/wailsapp
     - icon: fontawesome/brands/discord

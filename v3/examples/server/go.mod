@@ -49,4 +49,4 @@ require (
 
 replace github.com/zappie/wails/v3 => ../..
 
-replace github.com/wailsapp/wails/v2 => ../../../v2
+replace github.com/wailsapp/zappie/v2 => ../../../v2

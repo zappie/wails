@@ -31,4 +31,4 @@ func main() {
 
 ## Support
 
-If you find a bug in this plugin, please raise a ticket on the Wails [Issue Tracker](https://github.com/wailsapp/wails/issues).
+If you find a bug in this plugin, please raise a ticket on the Wails [Issue Tracker](https://github.com/wailsapp/zappie/issues).

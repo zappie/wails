@@ -6,16 +6,16 @@
   Crie aplicativos de desktop usando Go e tecnologias Web.
   <br/>
   <br/>
-  <a href="https://github.com/wailsapp/wails/blob/master/LICENSE">
+  <a href="https://github.com/wailsapp/zappie/blob/master/LICENSE">
     <img alt="GitHub" src="https://img.shields.io/github/license/wailsapp/wails"/>
   </a>
-  <a href="https://goreportcard.com/report/github.com/wailsapp/wails">
-    <img src="https://goreportcard.com/badge/github.com/wailsapp/wails" />
+  <a href="https://goreportcard.com/report/github.com/wailsapp/zappie">
+    <img src="https://goreportcard.com/badge/github.com/wailsapp/zappie" />
   </a>
-  <a href="https://pkg.go.dev/github.com/wailsapp/wails">
-    <img src="https://pkg.go.dev/badge/github.com/wailsapp/wails.svg" alt="Go Reference"/>
+  <a href="https://pkg.go.dev/github.com/wailsapp/zappie">
+    <img src="https://pkg.go.dev/badge/github.com/wailsapp/zappie.svg" alt="Go Reference"/>
   </a>
-  <a href="https://github.com/wailsapp/wails/issues">
+  <a href="https://github.com/wailsapp/zappie/issues">
     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="CodeFactor" />
   </a>
   <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fwailsapp%2Fwails?ref=badge_shield" alt="FOSSA Status">
@@ -28,10 +28,10 @@
     <img alt="Discord" src="https://dcbadge.vercel.app/api/server/BrRSWTaxVK?style=flat"/>
   </a>
   <br/>
-  <a href="https://github.com/wailsapp/wails/actions/workflows/build-and-test.yml" rel="nofollow">
+  <a href="https://github.com/wailsapp/zappie/actions/workflows/build-and-test.yml" rel="nofollow">
     <img src="https://img.shields.io/github/actions/workflow/status/wailsapp/wails/build-and-test.yml?branch=master&logo=Github" alt="Build" />
   </a>
-  <a href="https://github.com/wailsapp/wails/tags" rel="nofollow">
+  <a href="https://github.com/wailsapp/zappie/tags" rel="nofollow">
     <img alt="GitHub tag (latest SemVer pre-release)" src="https://img.shields.io/github/v/tag/wailsapp/wails?include_prereleases&label=version"/>
   </a>
 </p>
@@ -84,7 +84,7 @@ que torne isso mais fácil para você lidando com a criação, compilação e ag
 
 ### Plano de trabalho
 
-O plano de trabalho do projeto pode ser encontrado [aqui](https://github.com/wailsapp/wails/discussions/1484). Por favor consulte
+O plano de trabalho do projeto pode ser encontrado [aqui](https://github.com/wailsapp/zappie/discussions/1484). Por favor consulte
 isso antes de abrir um pedido de melhoria.
 
 ## Iniciando

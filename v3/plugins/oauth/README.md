@@ -211,4 +211,4 @@ On success, the plugin will send a `wails:oauth:loggedout` event. On failure, it
 
 ## Support
 
-If you find a bug in this plugin, please raise a ticket on the Wails [Issue Tracker](https://github.com/wailsapp/wails/issues). 
+If you find a bug in this plugin, please raise a ticket on the Wails [Issue Tracker](https://github.com/wailsapp/zappie/issues). 

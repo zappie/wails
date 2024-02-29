@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/matryer/is"
-	"github.com/wailsapp/wails/v2/pkg/templates"
+	"github.com/wailsapp/zappie/v2/pkg/templates"
 )
 
 const standardBindings = `// @ts-check

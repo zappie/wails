@@ -19,7 +19,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/wailsapp/wails/v2/pkg/options"
+	"github.com/wailsapp/zappie/v2/pkg/options"
 )
 
 func SetupSingleInstance(uniqueID string) {

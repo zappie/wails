@@ -17,8 +17,8 @@ import (
 
 	"github.com/leaanthony/debme"
 	"github.com/leaanthony/gosod"
-	"github.com/wailsapp/wails/v2/internal/fs"
-	"github.com/wailsapp/wails/v2/pkg/clilogger"
+	"github.com/wailsapp/zappie/v2/internal/fs"
+	"github.com/wailsapp/zappie/v2/pkg/clilogger"
 )
 
 //go:embed all:templates

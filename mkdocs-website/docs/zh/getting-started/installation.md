@@ -3,7 +3,7 @@
 要安装Wails CLI，请确保已经安装[Go 1.21+](https://go.dev/dl/)并运行以下命令：
 
 ```shell
-git clone https://github.com/wailsapp/wails.git
+git clone https://github.com/wailsapp/zappie.git
 cd wails
 git checkout v3-alpha
 cd v3/cmd/wails3

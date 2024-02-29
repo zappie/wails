@@ -12,7 +12,7 @@ posts before creating new ones. Here are the different ways to provide feedback:
     - Please include the output of `wails doctor` in your post.
     - If the bug is behaviour that does not align with current documentation, e.g. a window does not resize properly, please do the following:
       - Update an existing example in the `v3/example` directory or create a new example in the `v3/examples` folder that clearly shows the issue.
-      - Open a [PR](https://github.com/wailsapp/wails/pulls) with the title `[v3 alpha test] <description of bug>`.
+      - Open a [PR](https://github.com/wailsapp/zappie/pulls) with the title `[v3 alpha test] <description of bug>`.
       - Please include a link to the PR in your post.
 
     !!! warning
@@ -23,7 +23,7 @@ posts before creating new ones. Here are the different ways to provide feedback:
 
     If you have a fix for a bug or an update for documentation, please do the following:
 
-    - Open a pull request on the [Wails repository](https://github.com/wailsapp/wails). The title of the PR should start with `[v3 alpha]`.
+    - Open a pull request on the [Wails repository](https://github.com/wailsapp/zappie). The title of the PR should start with `[v3 alpha]`.
     - Create a post in the [v3 Alpha Feedback](https://discord.gg/3mgVyGua) channel.
     - The post should be given the `PR` tag.
     - Please include a link to the PR in your post.
