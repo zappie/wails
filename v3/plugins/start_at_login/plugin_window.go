@@ -4,10 +4,11 @@ package start_at_login
 
 import (
 	"fmt"
-	"golang.org/x/sys/windows/registry"
 	"os"
 	"path/filepath"
 	"strings"
+
+	"golang.org/x/sys/windows/registry"
 )
 
 func (p *Plugin) init() error {
@@ -66,7 +67,8 @@ func (p *Plugin) StartAtLogin(enabled bool) error {
 		defer key.Close()
 
 		// Set the registry value
-		err = key.SetStringValue(registryKey, exePath)
+		// The value needs to be quoted to work properly
+		err = key.SetStringValue(registryKey, fmt.Sprintf("\"%s\"", exePath))
 		if err != nil {
 			return fmt.Errorf("failed to set registry value: %s", err)
 		}
